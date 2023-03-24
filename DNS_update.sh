@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Customize with your data
-APIKEY="input-api"
+APIKEY="api-key"
 DOMAINS="domain1.com domain2.com"
 RECORD="@"
 echo ${RECORD}
